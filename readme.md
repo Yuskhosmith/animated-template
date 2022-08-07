@@ -13,3 +13,5 @@ I learnt the difference between <script>, <sript async>, and <script defer>. I a
 <script defer> </script>
 
 ```
+
+[Live Site](https://yuskhosmith.github.io/animated-template/)
