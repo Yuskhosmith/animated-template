@@ -7,7 +7,7 @@ The animation was done by using the [animate on scroll library](https://michalsn
 ## .New
 I learnt the difference between <script>, <sript async>, and <script defer>. I also learnt the order of prioprity i.e. which JS should load first, Should the JS load before the HTML and many more.
 
-```
+```js
 <script> </script>
 <script async> </script>
 <script defer> </script>
